@@ -11,7 +11,7 @@ def home():
 
 @app.route('/user/<uname>')  
 def message(uname):  
-  return render_template('home.html',name=uname)
+  return render_template('Home.html',name=uname)
 
 @app.route('/api/<link>')
 def show_Link(link):

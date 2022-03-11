@@ -6,13 +6,14 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "<h1>Get YouTube Video Data </h1>"
+    return f"<h1>Get YouTube Video Data {request}</h1>"
 
 
-@app.route('/<link>')
+#@app.route('/<link>')
 def show_Link():
   return f"<h1>Get YouTube Video Data \n {link} </h1>"
-@app.route('/api')
+
+#@app.route('/api')
 def api_id():
     if "link" in request.args:
         id = request.args['link']

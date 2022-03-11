@@ -9,6 +9,9 @@ def home():
     return "<h1>Get YouTube Video Data </h1>"
 
 
+@app.route('/<link>')
+def show_Link():
+  return f"<h1>Get YouTube Video Data \n {link} </h1>"
 @app.route('/api')
 def api_id():
     if "link" in request.args:

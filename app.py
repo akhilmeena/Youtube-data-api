@@ -4,12 +4,15 @@ from py_youtube import Data
 app = Flask(__name__)
 
 
-@app.route('/<text>')
+@app.route('/')
 def home():
-    return f"<h1>Get YouTube Video Data {{text}} akhil</h1>"
+    return f"<h1>Get YouTube Video Data</h1>"
 
+@app.route('/user/<uname>')  
+def message(uname):  
+  return render_template('Home.html',name=uname)
 
-#@app.route('/<link>')
+@app.route('/<link>')
 def show_Link():
   return f"<h1>Get YouTube Video Data \n {link} </h1>"
 

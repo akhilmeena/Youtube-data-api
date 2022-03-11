@@ -4,9 +4,9 @@ from py_youtube import Data
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/<text>')
 def home():
-    return f"<h1>Get YouTube Video Data {request} akhil</h1>"
+    return f"<h1>Get YouTube Video Data {{text}} akhil</h1>"
 
 
 #@app.route('/<link>')

@@ -11,13 +11,14 @@ def home():
 
 @app.route('/user/<uname>')  
 def message(uname):  
-  return render_template('Home.html',name=uname)
+  return render_template('home.html',name=uname)
 
 @app.route('/api/<link>')
 def show_Link(link):
   text = f"<h1>Get YouTube Video Data \n {{link}} </h1>".format(link=link)
   return text
-#@app.route('/api')
+
+@app.route('/api')
 def api_id():
     if "link" in request.args:
         id = request.args['link']

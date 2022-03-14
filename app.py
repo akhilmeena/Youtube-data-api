@@ -28,4 +28,5 @@ def api_id():
     return jsonify(yt)
         
 if __name__ == "__main__":
-    app.run( debug=True)
+  app.static_folder = 'static'
+  app.run( debug=True)

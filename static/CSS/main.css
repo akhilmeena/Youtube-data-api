@@ -8,7 +8,8 @@ body {
  * Formatting the header area
  */
 header {
-  background-color: white;
+  /*background-color: white;*/
+  background: #0e8dbc;
   height: 40px;
   width: 100%;
   opacity: .9;
@@ -27,7 +28,6 @@ header div.Heroku-Title {
   margin: 0;
   font-size: 1.5em;
   display: inline-block;
-  background: #0e8dbc;
   color: white;
   float: center;
   text-shadow: 0 1px 0 #ccc,

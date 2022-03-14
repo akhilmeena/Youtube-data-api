@@ -21,6 +21,9 @@ header div.Heroku-Logo {
   height: 51px; 
   vertical-align: center;
   display: inline-block;
+  position:absolute;
+  left:40px; 
+  top:10px;
 }
 
 header div.Heroku-Title {
@@ -30,7 +33,7 @@ header div.Heroku-Title {
   color: rgba(83,200,230,0.982);
   float: center;
   position:absolute;
-  left:150px; 
+  left:110px; 
   top:10px;
   vertical-align: top;
   text-shadow: 0 1px 0 #ccc,

@@ -26,6 +26,7 @@ header div.Heroku-Logo {
 header div.Heroku-Title {
   margin: 0;
   font-size: 1.5em;
+  display: inline-block;
   background: #0e8dbc;
   color: white;
   float: center;

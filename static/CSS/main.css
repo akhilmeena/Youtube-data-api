@@ -20,7 +20,7 @@ header div.Heroku-Logo {
   height: 20px; 
   vertical-align: left;
   display: inline-block;
-  vertical-align: center;
+  vertical-align: left;
 }
 
 header h1.logo {

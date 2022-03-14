@@ -15,6 +15,8 @@ header {
   margin-bottom: 10px;
 }
 header h1.logo {
+  margin: 0;
+  font-size: 1.7em;
   background: #0e8dbc;
   color: white;
   text-shadow: 0 1px 0 #ccc,

@@ -17,19 +17,19 @@ header {
 }
 header div.Heroku-Logo {
   background: url('https://api.iconify.design/simple-icons/heroku.svg?color=rgba(0%2C%200%2C%20153%2C%200.4)') no-repeat center center / contain;
-  width: 31px; 
-  height: 40px; 
-  vertical-align: left;
+  width: 38px; 
+  height: 55px; 
+  vertical-align: center;
   display: inline-block;
-  vertical-align: left;
 }
 
 header div.Heroku-Title {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 2em;
   display: inline-block;
-  color: white;
+  color: blue;
   float: center;
+  vertical-align: top;
   text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
                0 3px 0 #bbb,

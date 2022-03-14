@@ -27,8 +27,11 @@ header div.Heroku-Title {
   margin: 0;
   font-size: 2em;
   display: inline-block;
-  color: blue;
+  color: rgba(255,255,178,0.17);
   float: center;
+  position:absolute;
+  left:120px; 
+  top:30px;
   vertical-align: top;
   text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,

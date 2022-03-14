@@ -23,7 +23,7 @@ header div.Heroku-Logo {
   vertical-align: left;
 }
 
-header h1.logo {
+header div.logo {
   margin: 0;
   font-size: 1.5em;
   background: #0e8dbc;

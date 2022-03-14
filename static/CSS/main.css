@@ -25,13 +25,13 @@ header div.Heroku-Logo {
 
 header div.Heroku-Title {
   margin: 0;
-  font-size: 2em;
+  font-size: 1.7em;
   display: inline-block;
-  color: rgba(255,255,178,0.17);
+  color: rgba(83,200,230,0.982);
   float: center;
   position:absolute;
-  left:120px; 
-  top:30px;
+  left:150px; 
+  top:10px;
   vertical-align: top;
   text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,

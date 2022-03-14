@@ -42,8 +42,8 @@ header div.Heroku-Title {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
 }
-header div.Heroku-Logo,
-header div.Heroku-Title {
+.header .Heroku-Logo,
+.header .Heroku-Title {
   display: inline-block;
   vertical-align: center;
 }

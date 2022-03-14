@@ -61,8 +61,8 @@ h3 {
   color: #999;
 }
 .menu {
-  float: left;
-  margin-top: 16px;
+  float: right;
+  margin-top: 8px;
 }
 .menu li {
   display: inline;

@@ -90,6 +90,7 @@ footer {
 footer div.Footer-Text {
   background: #f61d1d;
   display: inline-block;
+  position: center;
 }
 
 .container {

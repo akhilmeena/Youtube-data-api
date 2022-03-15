@@ -74,18 +74,18 @@ header h1.logo:hover {
 /*
  * Centering the body content
  */
- /* Centering Footer content*/
+ /* Centering Footer content
  
  footer {
   /*background-color: white;*/
-  background: #000000;
+  /*background: #000000;
   opacity: .9;
   position: absolute;
   bottom: 0px;
   width: 100%;
   height: 2.5rem;
  }
- 
+*/
 .container {
   width: 0 auto;/*600px;*/
   margin: 0 auto;

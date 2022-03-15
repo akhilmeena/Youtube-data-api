@@ -60,6 +60,8 @@ header div.Heroku-Title {
 .header .Heroku-Title {
   display: inline-block;
   text-align: center;
+  position:absolute;
+  left:120px;
 }
 header h1.logo {
   margin: 0;

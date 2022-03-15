@@ -76,14 +76,12 @@ header h1.logo:hover {
  footer {
   /*background-color: white;*/
   background: #000000;
-  height: -40px;
-  width: -100%;
+  height: 40px;
+  width: 100%;
   opacity: .9;
   position: absolute;
   bottom: 0;
-  margin-bottom: 10px;
-  border: 1px solid;
-  padding: 10px;
+  
  }
  
 .container {

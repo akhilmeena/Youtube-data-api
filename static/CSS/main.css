@@ -59,9 +59,7 @@ header div.Heroku-Title {
 .header .Heroku-Logo,
 .header .Heroku-Title {
   display: inline-block;
-  text-align: center;
-  position:absolute;
-  left:120px;
+  vertical-align: center;
 }
 header h1.logo {
   margin: 0;
@@ -92,7 +90,7 @@ footer {
 footer div.Footer-Text {
   background: #f61d1d;
   display: inline-block;
-  position: center;
+  text-align: center;
 }
 
 .container {

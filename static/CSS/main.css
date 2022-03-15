@@ -93,6 +93,9 @@ footer div.Footer-Text {
   text-align: center;
   text-transform: uppercase;
   float: center;
+  position:absolute;
+  left:120px; 
+  top: 2px;
 }
 
 .container {

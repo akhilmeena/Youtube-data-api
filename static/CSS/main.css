@@ -16,7 +16,10 @@ header {
   margin-bottom: 10px;
   border: 1px solid;
   padding: 10px;
-  box-shadow: 1.5px 2.5px #888888;
+  border-bottom-width: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(28,110,164,0.67);
+  border-radius: 0px 0px 16px 16px;
 }
 header div.Heroku-Logo {
   background: url('https://api.iconify.design/simple-icons/heroku.svg?color=rgba(0%2C%200%2C%20153%2C%200.4)') no-repeat center center / contain;
@@ -31,7 +34,7 @@ header div.Heroku-Logo {
 
 header div.Heroku-Title {
   margin: 0;
-  font-size: 1.6em;
+  font-size: 1.5em;
   display: inline-block;
   color: rgba(83,200,230,0.982);
   float: center;

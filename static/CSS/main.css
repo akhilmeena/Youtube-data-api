@@ -120,13 +120,14 @@ footer {
  }
 
 footer div.Footer-Text {
-  font-family: Cursive;
+  font-family: Fantasy;
   background: white;
   display: inline-block;
   text-transform: uppercase;
   position:absolute;
   left:120px; 
   bottom: 0px;
+  font-size: 10px;
   /*top: 4px;
   border-radius: 15px;
   /*border: 0.2px solid black;*/

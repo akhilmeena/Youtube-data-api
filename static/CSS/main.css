@@ -59,7 +59,7 @@ header div.Heroku-Title {
 .header .Heroku-Logo,
 .header .Heroku-Title {
   display: inline-block;
-  vertical-align: center;
+  text-align: center;
 }
 header h1.logo {
   margin: 0;

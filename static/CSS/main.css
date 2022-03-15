@@ -94,6 +94,9 @@ footer div.Footer-Text {
   position:absolute;
   left:120px; 
   top: 2px;
+  border: 2px solid green;
+  padding: 0px;
+  margin: 5px;
 }
 
 .container {

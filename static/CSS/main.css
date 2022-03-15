@@ -80,7 +80,7 @@ header h1.logo:hover {
   width: 100%;
   opacity: .9;
   position: absolute;
-  bottom: 0;
+  bottom: 10;
  }
  
 .container {

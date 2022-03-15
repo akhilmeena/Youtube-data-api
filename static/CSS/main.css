@@ -94,9 +94,10 @@ footer div.Footer-Text {
   position:absolute;
   left:120px; 
   top: 2px;
-  border: 0.2px solid black;
-  padding: 0.5px;
-  margin: 5px;
+  /*border: 0.2px solid black;*/
+  /*padding: 0.5px;*/
+  /*margin: 5px;*/
+  background-color: #fff;
   box-shadow: 120px 80px 40px 20px #0ff;
 }
 

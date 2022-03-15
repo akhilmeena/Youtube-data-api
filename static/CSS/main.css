@@ -71,6 +71,20 @@ header h1.logo:hover {
 /*
  * Centering the body content
  */
+ /* Centering Footer content*/
+ 
+ footer {
+  header {
+  /*background-color: white;*/
+  background: white;
+  height: 40px;
+  width: 100%;
+  opacity: .9;
+  margin-bottom: 10px;
+  border: 1px solid;
+  padding: 10px;
+ }
+ 
 .container {
   width: 0 auto;/*600px;*/
   margin: 0 auto;

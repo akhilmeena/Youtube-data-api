@@ -1,4 +1,4 @@
-body {
+/*body {
   margin: 0;
   padding: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -7,9 +7,9 @@ body {
 /*
  * Formatting the header area
  */
-header {
+/*header {*/
   /*background-color: white;*/
-  background: white;
+  /*background: white;
   height: 40px;
   width: 100%;
   opacity: .9;

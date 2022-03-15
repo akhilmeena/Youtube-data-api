@@ -74,9 +74,8 @@ header h1.logo:hover {
  /* Centering Footer content*/
  
  footer {
-  header {
   /*background-color: white;*/
-  background: white;
+  background: #000000;
   height: 40px;
   width: 100%;
   opacity: .9;

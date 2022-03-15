@@ -91,6 +91,8 @@ footer div.Footer-Text {
   background: #f61d1d;
   display: inline-block;
   text-align: center;
+  text-transform: uppercase;
+  float: center;
 }
 
 .container {

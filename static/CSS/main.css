@@ -78,7 +78,7 @@ header h1.logo:hover {
   background: #000000;
   opacity: .9;
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   width: 120%;
   height: 2.5rem;
  }

@@ -88,13 +88,13 @@ footer {
  }
 
 footer div.Footer-Text {
-  background: #f61d1d;
+  background: rgb(251,153,223);
   display: inline-block;
   text-transform: uppercase;
   position:absolute;
   left:120px; 
   top: 2px;
-  border: 2px solid green;
+  border: 2px solid black;
   padding: 0px;
   margin: 5px;
 }

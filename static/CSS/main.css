@@ -23,7 +23,7 @@ header {
 }
 header div.Heroku-Logo {
   background: url('https://api.iconify.design/simple-icons/heroku.svg?color=rgba(0%2C%200%2C%20153%2C%200.4)') no-repeat center center / contain;
-  width: 38px; 
+  width: 30px; 
   height: 51px; 
   vertical-align: center;
   display: inline-block;

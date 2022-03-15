@@ -79,6 +79,8 @@ header h1.logo:hover {
   height: -40px;
   width: -100%;
   opacity: .9;
+  position: absolute;
+  bottom: 0;
   margin-bottom: 10px;
   border: 1px solid;
   padding: 10px;

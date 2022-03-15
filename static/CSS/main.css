@@ -79,7 +79,7 @@ header h1.logo:hover {
  
 footer {
   /*background-color: white;*/
-  background: #000000;
+  background: rgb(251,153,223);
   opacity: .9;
   position: absolute;
   bottom: 0px;
@@ -88,7 +88,7 @@ footer {
  }
 
 footer div.Footer-Text {
-  background: rgb(251,153,223);
+  background: white;
   display: inline-block;
   text-transform: uppercase;
   position:absolute;

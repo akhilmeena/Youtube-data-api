@@ -40,8 +40,8 @@ header div.Heroku-Title {
   color: rgba(83,200,230,0.982);
   float: center;
   position:absolute;
-  left:100px; 
-  top:15px;
+  left:120px; 
+  top: 2px;
   vertical-align: top;
   text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,

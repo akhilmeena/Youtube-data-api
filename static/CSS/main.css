@@ -244,6 +244,7 @@ h3 {
   height: 30px;
   width: auto;
   background-color: #3399FF;
+  overflow: hidden;
 }
 
 #breaking-news-container {

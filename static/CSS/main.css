@@ -229,7 +229,7 @@ TestPage div.Menu {
 img.animated-gif{
   width: 50px;
   height: auto;
-  position: fixed;
+  position: relative;
   margin-bottom: 0;
   right: 0;
 }

@@ -227,8 +227,8 @@ TestPage div.Menu {
 }
 
 IMG.DancingGif {
-  width: 5px;
-  height: 5px;
+  width: 10px;
+  height: 10px;
   position: fixed;
   bottom: 0;
   right: 0;

@@ -403,5 +403,7 @@ h3 {
   } 
 }
 
-
+TestPage div.Menu {
+  font-size: 15px;
+}
 

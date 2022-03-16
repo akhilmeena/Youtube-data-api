@@ -226,10 +226,11 @@ TestPage div.Menu {
   font-size: 100px;
 }
 
-.DancingGif {
-  background-image: url(static/IMGS/56a83919daa9fc23389977a7c38fca35.gif);
-  background-repeat: no-repeat;
+img.animated-gif{
+  width: 120px;
+  height: auto;
+}
   /*position: fixed;
   bottom: 0;
-  right: 0;*/
+  right: 0;
 }

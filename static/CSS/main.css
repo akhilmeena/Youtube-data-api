@@ -227,8 +227,8 @@ TestPage div.Menu {
 }
 
 .DancingGif {
-  height: 300px;  
-  width: auto;  
+  background-image: url(static/IMGS/56a83919daa9fc23389977a7c38fca35.gif);
+  background-repeat: no-repeat;
   /*position: fixed;
   bottom: 0;
   right: 0;*/

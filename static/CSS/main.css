@@ -231,6 +231,7 @@ img.animated-gif{
   width: 50px;
   height: auto;
   position: fixed;
+  bottom: 10px;
   padding-bottom: 0;
   right: 0;
 }

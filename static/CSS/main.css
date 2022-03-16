@@ -229,5 +229,7 @@ TestPage div.Menu {
 DancingGif {
   width: 25px;
   height: 25px;
-  margin-bottom: 0;
+  position: absolute;
+  left: 100%;
+  margin-bottom: 0px;
 }

@@ -248,7 +248,7 @@ h3 {
 
 #breaking-news-container {
   height: 30px;
-  width: 100;
+  width: 0 auto;
   overflow: hidden;
   position: absolute;
   &:before {

@@ -193,7 +193,7 @@ h3 {
 
 .news {
   box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4), 0 5px 10px rgba(0,0,0,0.5);
-  width: 890px;
+  width: 100%;
   margin: 20px auto;
   overflow: hidden;
   border-radius: 4px;

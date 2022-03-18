@@ -1,2 +1,3 @@
-var sumView = document.getElementById("demo");
-sumView.value = sumFunct(3,5);
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}

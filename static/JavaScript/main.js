@@ -1,1 +1,2 @@
-document.getElementById("demo").innerHTML = 5 + 6;
+var sumView = document.getElementById("demo");
+sumView.value = sumFunct(3,5);

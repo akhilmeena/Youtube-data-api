@@ -1,7 +1,4 @@
 {
   "name": "Bob",
-  "languages": "[
-    'English', 
-    'French'
-    ]"
+  "languages": "['English', 'French']"
 }

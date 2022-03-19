@@ -13,7 +13,10 @@ def about():
   return data
 
 def get_static_json(path):
-    return json.load(open(path))
+  with open(path, 'r') as f:
+    data = json.load(f)
+    print(data)
+    return person_dict = json.loads(data)
 
 
 

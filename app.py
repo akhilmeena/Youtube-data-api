@@ -13,7 +13,7 @@ def about():
   return data
 
 def get_static_json(path):
-    return json.load(open(get_static_file(path)))
+    return json.load(open(path))
 
 
 

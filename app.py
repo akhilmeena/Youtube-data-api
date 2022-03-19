@@ -10,7 +10,7 @@ def home():
 def about():
   path = "static/Data/Data.json"
   data = get_static_json(path)
-  return JSON.stringify(data, undefined, 2)
+  return data
 
 def get_static_json(path):
   with open(path, 'r') as f:

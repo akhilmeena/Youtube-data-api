@@ -1,3 +1,7 @@
 {
-  "akhil" : "kya ho rha h",
+  'name': 'Bob',
+  'languages': [
+    'English', 
+    'French'
+    ]
 }

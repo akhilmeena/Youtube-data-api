@@ -16,7 +16,8 @@ def get_static_json(path):
   with open(path, 'r') as f:
     data = json.load(f)
   print(data)
-  return person_dict = json.loads(data)
+  person_dict = json.loads(data)
+  return person_dict
 
 
 

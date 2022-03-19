@@ -10,14 +10,12 @@ def home():
 def about():
   path = "static/Data/Data.json"
   data = get_static_json(path)
-  return data
+  return pretty_json = json.dumps(data, indent=4) 
 
 def get_static_json(path):
   with open(path, 'r') as f:
     data = json.load(f)
-  pretty_json = json.dumps(data, indent=4) 
-  print(pretty_json)
-  return pretty_json
+  return data
 
 
 

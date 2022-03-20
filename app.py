@@ -11,7 +11,7 @@ def about():
   path = "static/Data/Data.json"
   data = get_static_json(path)
   pretty_json = json.dumps(data, indent=4) 
-  return pretty_json
+  return jsonify(result=pretty_json)
   
 def get_static_json(path):
   with open(path, 'r') as f:

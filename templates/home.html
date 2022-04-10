@@ -8,19 +8,12 @@
     <script type="text/javascript" src="/static/JavaScript/main.js"></script>
     <script type="text/javascript" src="https://github.com/akhilmeena/Youtube-data-api/blob/3ddf8fcaa7f43d0d66b578ff6eb55836d54c2288/static/JavaScript/main.js"></script>
     <script type="text/javascript" src="/static/Data/Data.json"></script>
-        <script type="text/javascript" >
-            function load() {
-                var mydata = JSON.parse(data);
-                alert(mydata.length);
-
-                var div = document.getElementById('data');
-
-                for(var i = 0;i < mydata.length; i++)
-                {
-                    div.innerHTML = div.innerHTML + "<p class='inner' id="+i+">"+ mydata[i].name +"</p>" + "<br>";
-                }
-            }
-        </script>
+    <script type="text/javascript" >
+    function load() {
+      var mydata = JSON.parse(data);
+      alert(mydata.length);
+    }
+    </script>
   </head>
   <body>
     <header>
@@ -66,10 +59,6 @@
         <div class="Footer-Text">© Copyright akhil meena - 2022 ❤</div>
       </div>
     </footer>
-    <akhil onload="load()">
-        <div id="data">
-        </div>
-    </akhil>
     <script type="text/javascript" src="/static/JavaScript/main.js"></script>
     <script type="text/javascript" src="https://github.com/akhilmeena/Youtube-data-api/blob/3ddf8fcaa7f43d0d66b578ff6eb55836d54c2288/static/JavaScript/main.js"></script>
   </body>

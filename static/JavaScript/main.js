@@ -7,4 +7,4 @@ function SumOfNumbers() {
 }
 
 //alert("delivering hearts to my followers..❣️");
-alert("loading animation... plz wait.");
+//alert("loading animation... plz wait.");
